@@ -1,0 +1,29 @@
+h1{
+    margin-bottom: 30px;
+    color: blue;
+    text-decoration: none;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+	border-radius: 7px;
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color: rgb(181, 173, 173);
+	padding: 7px;
+	padding-left: 8px;
+	padding-right: 8px;
+    font-weight: lighter;
+	border-radius: 4px;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: rgb(254, 255, 251);
+}
